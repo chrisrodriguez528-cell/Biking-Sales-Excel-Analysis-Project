@@ -1,4 +1,4 @@
-# Biking-Sales-Excel-Analysis-Project
+# Biking Sales Excel Analysis Project (Feb. 2026)
 
 :thought_balloon: **Context of Project:**
 - Using dataset table of Bike Sales including customer infgormation such as:
